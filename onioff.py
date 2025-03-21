@@ -22,7 +22,7 @@ sys.stdout.write(RED + """
  ╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝     ╚═╝ v2.1
 """  + END + BLUE +
 '\n' + '{}Onion URL Inspector ({}ONIOFF{}){}'.format(YELLOW, RED, YELLOW, BLUE).center(67) +
-'\n' + 'Made with <3 by: {}Nikolaos Kamarinakis ({}k4m4{}){}'.format(YELLOW, RED, YELLOW, BLUE).center(67) +
+'\n' + 'Made with <3 by: {}aria ({}aria{}){}'.format(YELLOW, RED, YELLOW, BLUE).center(67) +
 '\n' + 'Version: {}2.1{}'.format(YELLOW, END).center(57) + '\n')
 
 
