@@ -2,10 +2,6 @@
 # -.- coding: utf-8 -.-
 # onioff.py
 
-"""
-Copyright (C) 2016-2018 Nikolaos Kamarinakis (nikolaskam@gmail.com)
-See License at nikolaskama.me (https://nikolaskama.me/onioffproject)
-"""
 
 import socket, socks, requests, sys, os, optparse, datetime, re
 from urllib.request import urlopen
